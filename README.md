@@ -1,9 +1,6 @@
 # loop.py
 # -*- coding: utf-8 -*-
 """
-Created on Tue Aug 24 18:51:52 2021
-@author: 
-"""
 #--------------------------------Loops----------------------------------------
 #-------------For Loop---------------
 # for loop is used in case where we need to execute some part of the code until the given condition
